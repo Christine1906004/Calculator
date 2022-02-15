@@ -1,0 +1,22 @@
+git config --global user.email gabrieledrian.alvaro@g.batstate-u.edu.ph
+  	- Adding email config of the user
+git config --global user.name Gabriel19-00477
+ 	- Adding username config of the user
+
+git init
+   	- folder initialization
+
+git remote add origin <Link>
+ 	- adding link of remote repo
+
+git pull origin master
+
+git add .
+
+git commit -m "Added a calculator"
+
+git push origin master
+
+git checkout <Identifier ID>
+
+git log --oneline
